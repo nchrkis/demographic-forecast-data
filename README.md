@@ -59,3 +59,9 @@ For derived research:
 ---
 
 ## 📬 Contact
+```
+Nicholas Christakis
+Institute for Advanced Modelling and Simulation, University of Nicosia, Cyprus
+Email: nchrkis@gmail.com
+GitHub: @nchrkis
+```
