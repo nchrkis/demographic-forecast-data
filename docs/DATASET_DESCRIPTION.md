@@ -48,7 +48,7 @@ When using the dataset, please cite as:
 
 ### 6. Suggested Citation for Derived Works
 If used in academic research, cite both this repository and the accompanying paper:
-> *Politis*, *et al.* (2025). *Integrating  Machine Learning and Scenario Modelling for Robust Population Forecasting Under Crisis and Data Scarcity* *submitted to Applied Mathematical Modelling.*
+> *Politis*, *et al.* (2025). *Integrating  Machine Learning and Scenario Modelling for Robust Population Forecasting Under Crisis and Data Scarcity* *submitted to Mathematics.*
 
 ### 7. Contact
 For correspondence or data issues:
