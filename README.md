@@ -54,7 +54,7 @@ Released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)*
 > [https://github.com/nchrkis/demographic-forecast-data](https://github.com/nchrkis/demographic-forecast-data)
 
 For derived research:
-> Politis *et al.* (2025). *Integrating Machine Learning and Scenario Modelling for Robust Population Forecasting Under Crisis and Data Scarcity.* *Submitted to Applied Mathematical Modelling.*
+> Politis *et al.* (2025). *Integrating Machine Learning and Scenario Modelling for Robust Population Forecasting Under Crisis and Data Scarcity.* *Submitted to Mathematics.*
 
 ---
 
